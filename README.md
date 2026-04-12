@@ -66,7 +66,7 @@ ann-mnist-project/
 
 ```bash
 git clone https://github.com/Sanikakalyani/mnist-digit-classification-ann.git
-cd ann-mnist-from-scratch
+cd mnist-digit-classification-ann
 ```
 
 2. Install dependencies:
