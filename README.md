@@ -41,12 +41,11 @@ The model is trained on the **MNIST dataset** to classify handwritten digits (0�
 ## 📂 Project Structure
 
 ```
-ann-mnist-project/
-│── ann.py              # Main implementation
+ ann-mnist-classification-ann/
 │── README.md           # Project documentation
+│── notebook.ipynb      # Main implementation
 │── requirements.txt    # Dependencies
 ```
-
 ---
 
 ## 🛠️ Tech Stack
