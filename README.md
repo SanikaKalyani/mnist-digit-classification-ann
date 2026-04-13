@@ -35,12 +35,6 @@ The model is trained on the **MNIST dataset** to classify handwritten digits (0�
 * ✅ Backpropagation (manual implementation)
 * ✅ Gradient descent optimization
 * ✅ Accuracy evaluation
-* ✅ Tracks training loss over epochs
-* ✅ Evaluates accuracy on test data
-* ✅  Generates:
-       Loss vs Epoch graph
-       Confusion matrix
-       Single image prediction visualization
 
 ---
 
